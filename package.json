@@ -1,8 +1,8 @@
 {
-  "name": "lunik-torrent",
+  "name": "DigitalFun.IN Torrent",
   "version": "2.8.22",
   "description": "Web torrent client with directory storage",
-  "author": "Guillaume Lunik <guillaume.lunik@gmail.com",
+  "author": "Jazz <jjpatel410@gmail.com@gmail.com",
   "scripts": {
     "install": "if ! [ -f .htpasswd ]; then echo 'admin:admin' >> .htpasswd; fi; mkdir files; mkdir downloads; mkdir logs; touch torrents.txt; cp src/config.default src/config.json;",
     "start": "node src/index.js",
@@ -10,8 +10,8 @@
   },
   "main": "src/index.js",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/Lunik/Lunik-Torrent"
+    "type": "Jazz",
+    "url": "https://www.facebook.com/jaypatel889"
   },
   "dependencies": {
     "allocine-api": "^0.1.9",
