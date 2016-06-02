@@ -1,7 +1,7 @@
 {
-  "name": "Lunik-Torrent",
+  "name": "DigitalFun.IN Torrent",
   "description": "Web torrent client with directory storage",
-  "repository": "https://github.com/Lunik/Lunik-Torrent",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static", "webtorrent", "cloud"]
+  "repository": "https://www.facebook.com/jaypatel889",
+  "logo": "http://digitalfun.in/logodf.png",
+  "keywords": ["digitalfun.in", "free torrent leecher with unlimited storage", "cloudtorrent", "webtorrent", "zbigz"]
 }
