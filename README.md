@@ -1,4 +1,4 @@
-# Lunik-Torrent
+# DigitalFun.IN Torrent
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
 ![build](https://travis-ci.org/Lunik/Lunik-Torrent.svg?style=flat-square)
 
@@ -14,7 +14,7 @@
 
 ```
 $ git clone https://github.com/Lunik/Lunik-Torrent.git
-$ cd Lunik-Torrent
+$ cd DigitalFun.IN Torrent
 $ npm install
 $ cp src/config.default src/config.json
 $ nano src/config.json
