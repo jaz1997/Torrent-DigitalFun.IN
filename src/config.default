@@ -7,9 +7,7 @@
     "timeout": 3000,
     "maxTry": 3
   },
-  "server": {
-    "port": 80,
-    "message": "Protected area. Please disperse !",
+  "",
     
   },
   "directory": {
