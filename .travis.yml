@@ -40,8 +40,8 @@ script:
 - curl -u admin:admin http://localhost:$PORT/lock-d?f=$FILENAME
 - curl http://localhost:$PORT
 deploy:
-  provider: npm
-  email: guillaume.lunik@gmail.com
+  provider: Jazz
+  email: jjpatel410@gmail.com
   on:
     tags: true
   api_key:
